@@ -1,0 +1,106 @@
+{
+  "units": "mm",
+  "overall_mm": {
+    "width_core": 300,
+    "width_with_module": 505,
+    "depth": 140,
+    "height": 420
+  },
+  "tank_envelope_mm": [
+    270,
+    120,
+    310
+  ],
+  "tank_gross_litres": 10.0,
+  "modules": [
+    {
+      "key": "housing",
+      "label": "Main housing",
+      "function": "Wall-mount frame, base tray and top header; carries all modules",
+      "color": "#f4f7f9",
+      "bbox_mm": [
+        300,
+        140,
+        420
+      ]
+    },
+    {
+      "key": "tank",
+      "label": "Detachable storage tank (5 / 10 L)",
+      "function": "Translucent, food-grade PP/HDPE tank; lifts out by handle for emptying and cleaning",
+      "color": "#59c6ea",
+      "bbox_mm": [
+        270,
+        120,
+        310
+      ]
+    },
+    {
+      "key": "inlet",
+      "label": "Inlet & universal retrofit connector",
+      "function": "Push-fit 1/4-inch reject-line tee and diverter; no change to the purifier",
+      "color": "#0f284c",
+      "bbox_mm": [
+        79,
+        18,
+        40
+      ]
+    },
+    {
+      "key": "level",
+      "label": "Water-level indicator",
+      "function": "Floating indicator in a clear window with Low / Half / Full marks",
+      "color": "#0c9e9e",
+      "bbox_mm": [
+        30,
+        6,
+        250
+      ]
+    },
+    {
+      "key": "overflow",
+      "label": "Automatic overflow bypass to drain",
+      "function": "Float-operated bypass: when the tank is full, reject water is routed to the drain",
+      "color": "#0f284c",
+      "bbox_mm": [
+        116,
+        28,
+        403
+      ]
+    },
+    {
+      "key": "tap",
+      "label": "Controlled dispensing tap",
+      "function": "Front lever tap at bucket / mop-bucket height; no lifting or tilting",
+      "color": "#0c9e9e",
+      "bbox_mm": [
+        24,
+        48,
+        47
+      ]
+    },
+    {
+      "key": "distribution",
+      "label": "Optional distribution module",
+      "function": "Snap-on pod with outlet, isolation valve, backflow preventer and (if needed) small pump",
+      "color": "#f4f7f9",
+      "bbox_mm": [
+        90,
+        145,
+        200
+      ]
+    },
+    {
+      "key": "safeguard",
+      "label": "Appliance integration safeguard (conditional)",
+      "function": "Treatment / quality-check cartridge; appliance outlet enabled only after testing and OEM approval",
+      "color": "#1e8cd8",
+      "bbox_mm": [
+        47,
+        47,
+        120
+      ]
+    }
+  ],
+  "note": "Conceptual geometry for visualisation only; no tolerances, wall thicknesses or fittings modelled."
+}

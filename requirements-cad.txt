@@ -1,0 +1,5 @@
+# Optional: rebuild the 3D CAD model and renders (python build_project.py --with-cad)
+-r requirements.txt
+cadquery>=2.4
+trimesh>=4.0
+playwright>=1.40
