@@ -1,0 +1,291 @@
+{
+ "accessed": "2026-11-26",
+ "note": "Minimal, focused secondary research. Figures are as reported by each source; market reports differ widely in methodology and values, so market sizes in the app are assumption-based and labelled as such.",
+ "sources": [
+  {
+   "id": "R1",
+   "topic": "RO reject water reuse",
+   "name": "Assessment of RO Wastewater Management and Reuse, Gurugram (IJAES, 2024)",
+   "url": "https://www.internationaljournalssrg.org/IJAES/2024/Volume11-Issue5/IJAES-V11I5P104.pdf",
+   "findings": [
+    "143 respondents (Gurugram); 39.8% of respondents with an RO system reuse reject water, mostly for gardening (verified; paper does not state the exact denominator)",
+    "35% said an additional storage tank could be installed (verified; the paper marks this item as non-exhaustive); 60% suggested buckets; 29% a central plumbing collection system",
+    "Paper cites 3–4 L of reject water per litre purified (~75% wastage) for conventional RO",
+    "Only 45% knew about reuse practices; ~14% would consider reuse if better technology were available; authors call for easier-to-use reuse technology"
+   ],
+   "used_in": [
+    "overview",
+    "opportunity",
+    "sustainability",
+    "concept_testing"
+   ]
+  },
+  {
+   "id": "R2",
+   "topic": "Market",
+   "name": "Expert Market Research — India Water Purifier Market (2026–2035)",
+   "url": "https://www.expertmarketresearch.com/reports/india-water-purifier-market",
+   "findings": [
+    "Market size 2025: USD 1.24 billion; CAGR 10.1% (2026–2035)"
+   ],
+   "used_in": [
+    "opportunity"
+   ]
+  },
+  {
+   "id": "R3",
+   "topic": "Market",
+   "name": "MarkNtel Advisors — India Water Purifier Market Analysis 2026 (press release)",
+   "url": "https://www.marknteladvisors.com/press-release/india-water-purifier-market-share",
+   "findings": [
+    "RO purifiers ≈ 40% of the India market in 2025",
+    "Residential end users ≈ 73% of demand in 2025",
+    "Leading companies collectively ≈ 65% of the branded market"
+   ],
+   "used_in": [
+    "opportunity"
+   ]
+  },
+  {
+   "id": "R4",
+   "topic": "Market",
+   "name": "Fortune Business Insights — India Water Purifier Market",
+   "url": "https://www.fortunebusinessinsights.com/india-water-purifier-market-113101",
+   "findings": [
+    "RO filters held the largest share in 2024",
+    "Water-wastage concerns and energy use are cited as restraints on RO demand"
+   ],
+   "used_in": [
+    "opportunity"
+   ]
+  },
+  {
+   "id": "R5",
+   "topic": "Market",
+   "name": "Ken Research — India Water Purifier Market Outlook to FY2025",
+   "url": "https://www.kenresearch.com/industry-reports/india-water-purifier-market.md",
+   "findings": [
+    "Active installed base of 19.5 million purifiers in 2020; annual unit sales 3.1 million (2020)"
+   ],
+   "used_in": [
+    "opportunity"
+   ]
+  },
+  {
+   "id": "R6",
+   "topic": "Eureka Forbes",
+   "name": "Business Standard — Eureka Forbes Q4 FY25 results",
+   "url": "https://www.business-standard.com/markets/capital-market-news/eureka-forbes-spurts-after-robust-q4-numbers-125051600689_1.html",
+   "findings": [
+    "Q4 FY25 revenue from operations ₹612.5 crore (+10.8% YoY)",
+    "Direct, retail, e-commerce and institutional channels and one of the most expansive service networks in India"
+   ],
+   "used_in": [
+    "overview",
+    "opportunity",
+    "commercialization"
+   ]
+  },
+  {
+   "id": "R7",
+   "topic": "Eureka Forbes",
+   "name": "Outlook Business — Eureka Forbes FY30 aspiration (FY26 annual report)",
+   "url": "https://www.outlookbusiness.com/corporate/eureka-forbes-aims-to-double-revenue-to-5400-5600-cr-and-triple-ebitda-by-fy30",
+   "findings": [
+    "Aspiration to double revenue to ₹5,400–5,600 crore by FY30",
+    "FY26 revenue mix: electric water purifiers 42.8%, service 31.4%"
+   ],
+   "used_in": [
+    "overview",
+    "opportunity"
+   ]
+  },
+  {
+   "id": "R8",
+   "topic": "Eureka Forbes",
+   "name": "Eureka Forbes — Aquaguard Sure Delight NXT product page",
+   "url": "https://www.eurekaforbes.com/dp/GWPDDLTSR00000?ref=home_l",
+   "findings": [
+    "Service network covering 17,000+ pin codes",
+    "Aquasaver technology: up to 60% water savings vs regular RO"
+   ],
+   "used_in": [
+    "opportunity",
+    "commercialization",
+    "service"
+   ]
+  },
+  {
+   "id": "R9",
+   "topic": "Competitors",
+   "name": "Eureka Forbes — Aquaguard RO Reject Water Tank (existing accessory)",
+   "url": "https://www.eurekaforbes.com/dp/GWPMRORWT00020/aquaguard-ro-reject-water-tank",
+   "findings": [
+    "MRP ₹3,499; listed at ₹1,249 when accessed (26 Nov 2026)",
+    "470 × 150 × 317 mm; tap dispensing; box: tank, 1 m pipe, clamps, tap, screws, cap",
+    "No overflow or auto-cut feature mentioned on the page"
+   ],
+   "used_in": [
+    "opportunity",
+    "economics",
+    "commercialization",
+    "ip"
+   ]
+  },
+  {
+   "id": "R10",
+   "topic": "Competitors",
+   "name": "Flipkart — AquaSave RR 15 L RO waste-water tank with float valve",
+   "url": "https://www.flipkart.com/aquasave-make-every-drop-count-table-top-manual-water-dispenser/p/itm2ffb5b3d700e0",
+   "findings": [
+    "15 L tank with tap and float valve enabling RO auto-cut; ₹1,410 (MRP ₹2,500) when accessed",
+    "Marketplace reviews (anecdotal) mention auto-cut wiring hassle and leaks after months of use"
+   ],
+   "used_in": [
+    "opportunity",
+    "economics"
+   ]
+  },
+  {
+   "id": "R11",
+   "topic": "Regulation",
+   "name": "BIS — IS 16240:2023 RO point-of-use water treatment systems",
+   "url": "https://services.bis.gov.in/tmp/rp_06032024_65e83c8729fa2.pdf",
+   "findings": [
+    "Minimum recovery requirement raised from 20% to 40% to minimise water wastage"
+   ],
+   "used_in": [
+    "opportunity",
+    "sustainability"
+   ]
+  },
+  {
+   "id": "R12",
+   "topic": "Regulation",
+   "name": "Down To Earth — NGT order on RO systems (2019)",
+   "url": "https://www.downtoearth.org.in/news/water/ban-ro-systems-if-dissolved-solids-are-less-than-500-mg-l-ngt-64795",
+   "findings": [
+    "NGT asked for RO recovery of at least 60% and restriction of RO where TDS < 500 mg/l"
+   ],
+   "used_in": [
+    "opportunity"
+   ]
+  },
+  {
+   "id": "R13",
+   "topic": "Water quality",
+   "name": "Bhagwat & Munavalli (2020), Study on Feed and Reject Water Quality in RO Systems, Springer",
+   "url": "https://rd.springer.com/chapter/10.1007/978-981-13-9213-9_11",
+   "findings": [
+    "Household RO reject-water TDS ranged 279–1,616 mg/L (feed 238–1,317 mg/L)",
+    "Reject water can be reused for gardens, washing and flushing"
+   ],
+   "used_in": [
+    "feasibility",
+    "robust"
+   ]
+  },
+  {
+   "id": "R14",
+   "topic": "Water quality",
+   "name": "Havells — tips to reuse RO waste water",
+   "url": "https://blog.havells.com/?p=681",
+   "findings": [
+    "Dilute reject water for mopping to avoid salt deposits",
+    "Utensil washing should be done only with fresh water"
+   ],
+   "used_in": [
+    "feasibility"
+   ]
+  },
+  {
+   "id": "R15",
+   "topic": "Water quality",
+   "name": "IFB Appliances — dishwasher FAQ",
+   "url": "https://www.ifbappliances.com/ae/blog/frequently-asked-questions-about-dishwashers",
+   "findings": [
+    "Dishwashers are meant to work below 800 ppm water hardness; above this an external softener is advised"
+   ],
+   "used_in": [
+    "feasibility",
+    "robust"
+   ]
+  },
+  {
+   "id": "R16",
+   "topic": "Component cost",
+   "name": "IndiaMART — RO taps and float valves (indicative B2B listings)",
+   "url": "https://m.indiamart.com/impcat/ro-tap.html",
+   "findings": [
+    "Plastic RO taps listed ~₹5.5–₹90 per piece",
+    "RO float valves listed ~₹45 per piece (https://m.indiamart.com/ro-world-indore/ro-float-valve.html)"
+   ],
+   "used_in": [
+    "economics",
+    "manufacturing"
+   ]
+  },
+  {
+   "id": "R17",
+   "topic": "Component cost",
+   "name": "TradeIndia — RO float valve switch (indicative)",
+   "url": "https://www.tradeindia.com/products/ro-float-valve-switch-7173468.html",
+   "findings": [
+    "Water-level float switch for RO systems ~₹125–₹250 per piece"
+   ],
+   "used_in": [
+    "economics"
+   ]
+  },
+  {
+   "id": "R18",
+   "topic": "Appliance",
+   "name": "Digit — dishwasher guide for Indian homes",
+   "url": "https://www.digit.in/features/home-appliances/what-is-a-dishwasher-how-it-works-and-an-installation-guide-for-indian-homes.html",
+   "findings": [
+    "A dishwasher uses ~12–18 L per cycle; check TDS and hardness before installation"
+   ],
+   "used_in": [
+    "feasibility"
+   ]
+  },
+  {
+   "id": "R19",
+   "topic": "Eureka Forbes",
+   "name": "Broker initiation report on Eureka Forbes (hosted by Business Standard), Sept 2025",
+   "url": "https://bsmedia.business-standard.com/_media/bs/data/market-reports/equity-brokertips/2025-09/17570630810.73490700.pdf",
+   "findings": [
+    "Service overhaul drove the installed app base to 1.6 mn in FY25 (vs 140k in May-23)",
+    "Modelled ~13% revenue CAGR for water purifiers FY25–28E"
+   ],
+   "used_in": [
+    "opportunity",
+    "economics"
+   ]
+  },
+  {
+   "id": "C1",
+   "topic": "Course",
+   "name": "IIM Ranchi — New Product Development and Design course outline, Term V (Prof. Shilpi Saxena), 2025–26",
+   "url": "",
+   "findings": [
+    "Six-phase product development process; sessions 1–20 from introduction to integration & commercialization; textbook Ulrich, Eppinger & Yang"
+   ],
+   "used_in": [
+    "overview"
+   ]
+  },
+  {
+   "id": "C2",
+   "topic": "Course",
+   "name": "Ulrich, K., Eppinger, S. & Yang, M. — Product Design and Development (McGraw Hill)",
+   "url": "",
+   "findings": [
+    "Generic six-phase process; customer needs, specifications, concept selection and testing, architecture, DfE, DfM, robust design, economics"
+   ],
+   "used_in": [
+    "overview"
+   ]
+  }
+ ]
+}

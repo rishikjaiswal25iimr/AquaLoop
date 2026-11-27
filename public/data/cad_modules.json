@@ -1,0 +1,138 @@
+{
+  "units": "mm",
+  "overall_mm": {
+    "width_core": 300,
+    "width_with_module": 505,
+    "depth": 140,
+    "height": 420
+  },
+  "tank_envelope_mm": [
+    270,
+    120,
+    310
+  ],
+  "tank_gross_litres": 10.0,
+  "modules": [
+    {
+      "key": "housing",
+      "label": "Main housing",
+      "function": "Wall-mount frame, base tray and top header; carries all modules",
+      "color": "#132a4f",
+      "bbox_mm": [
+        300,
+        140,
+        420
+      ],
+      "hotspot": {
+        "assembled": "0.0000m 0.4100m -0.0000m",
+        "exploded": "0.0000m 0.4100m -0.0900m"
+      }
+    },
+    {
+      "key": "tank",
+      "label": "Detachable storage tank (5 / 10 L)",
+      "function": "Translucent, food-grade PP/HDPE tank; lifts out by handle for emptying and cleaning",
+      "color": "#8cd8ed",
+      "bbox_mm": [
+        270,
+        120,
+        310
+      ],
+      "hotspot": {
+        "assembled": "-0.0000m 0.3500m 0.0040m",
+        "exploded": "-0.0000m 0.3500m 0.1840m"
+      }
+    },
+    {
+      "key": "inlet",
+      "label": "Inlet & universal retrofit connector",
+      "function": "Push-fit 1/4-inch reject-line tee and diverter; no change to the purifier",
+      "color": "#33a854",
+      "bbox_mm": [
+        79,
+        18,
+        40
+      ],
+      "hotspot": {
+        "assembled": "0.1355m 0.4500m -0.0000m",
+        "exploded": "0.1955m 0.5700m -0.0000m"
+      }
+    },
+    {
+      "key": "level",
+      "label": "Water-level indicator",
+      "function": "Floating indicator in a clear window with Low / Half / Full marks",
+      "color": "#00d3f2",
+      "bbox_mm": [
+        30,
+        6,
+        250
+      ],
+      "hotspot": {
+        "assembled": "-0.0990m 0.3200m 0.0670m",
+        "exploded": "-0.0990m 0.3400m 0.3670m"
+      }
+    },
+    {
+      "key": "overflow",
+      "label": "Automatic overflow bypass to drain",
+      "function": "Float-operated bypass: when the tank is full, reject water is routed to the drain",
+      "color": "#f28721",
+      "bbox_mm": [
+        116,
+        28,
+        403
+      ],
+      "hotspot": {
+        "assembled": "-0.1490m 0.4030m -0.0000m",
+        "exploded": "-0.2390m 0.5130m -0.0000m"
+      }
+    },
+    {
+      "key": "tap",
+      "label": "Controlled dispensing tap",
+      "function": "Front lever tap at bucket / mop-bucket height; no lifting or tilting",
+      "color": "#b2b7bf",
+      "bbox_mm": [
+        24,
+        48,
+        47
+      ],
+      "hotspot": {
+        "assembled": "0.0500m 0.0410m 0.0940m",
+        "exploded": "0.0500m -0.0390m 0.2640m"
+      }
+    },
+    {
+      "key": "distribution",
+      "label": "Optional distribution module",
+      "function": "Snap-on pod with outlet, isolation valve, backflow preventer and (if needed) small pump",
+      "color": "#2b3038",
+      "bbox_mm": [
+        90,
+        145,
+        200
+      ],
+      "hotspot": {
+        "assembled": "-0.2650m 0.2400m 0.0125m",
+        "exploded": "-0.4550m 0.2400m 0.0125m"
+      }
+    },
+    {
+      "key": "safeguard",
+      "label": "Appliance integration safeguard (conditional)",
+      "function": "Treatment / quality-check cartridge; appliance outlet enabled only after testing and OEM approval",
+      "color": "#0c9e9e",
+      "bbox_mm": [
+        47,
+        47,
+        120
+      ],
+      "hotspot": {
+        "assembled": "-0.2650m 0.2800m 0.0100m",
+        "exploded": "-0.5150m 0.4100m 0.0500m"
+      }
+    }
+  ],
+  "note": "Conceptual geometry for visualisation only; no tolerances, wall thicknesses or fittings modelled."
+}
